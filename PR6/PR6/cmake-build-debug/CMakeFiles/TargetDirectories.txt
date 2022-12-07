@@ -1,0 +1,3 @@
+D:/ОС/PR6/PR6/cmake-build-debug/CMakeFiles/PR6.dir
+D:/ОС/PR6/PR6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ОС/PR6/PR6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
