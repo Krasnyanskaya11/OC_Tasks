@@ -1,0 +1,3 @@
+D:/ОС/ПР7/Part4/cmake-build-debug/CMakeFiles/Part4.dir
+D:/ОС/ПР7/Part4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ОС/ПР7/Part4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

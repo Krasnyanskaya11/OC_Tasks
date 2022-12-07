@@ -1,0 +1,1 @@
+all:vivod zapuskvivod:main.c	g++ main.c -o main.ozapusk:main.o	./main.o
