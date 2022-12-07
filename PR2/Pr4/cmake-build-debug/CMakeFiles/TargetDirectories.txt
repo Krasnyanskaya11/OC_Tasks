@@ -1,0 +1,3 @@
+D:/ОС/PR2/Pr4/cmake-build-debug/CMakeFiles/Pr4.dir
+D:/ОС/PR2/Pr4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ОС/PR2/Pr4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
